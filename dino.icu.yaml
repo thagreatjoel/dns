@@ -469,8 +469,8 @@ piyush:
 playground:
    ttl: 600
    type: CMAKE
-   value: hardwareplayground.netlify.app
-
+   value: hardwareplayground.netlify.app.
+   
 print:
    ttl: 600
    type: CNAME
