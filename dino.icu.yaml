@@ -649,9 +649,9 @@ piyush:
    type: CNAME
    value: dino.piyush.ovh.
 
-playground:
+playground: #https://github.com/thagreatjoel/Playground
    ttl: 600
-   type: CMAKE
+   type: CNAME
    value: hardwareplayground.netlify.app.
    
 print:
