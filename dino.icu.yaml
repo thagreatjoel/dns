@@ -630,6 +630,11 @@ piyush:
    ttl: 600
    type: CNAME
    value: dino.piyush.ovh.
+   
+playground:
+ttl: 600
+type: CMAKE
+value: 
 
 print:
    ttl: 600
