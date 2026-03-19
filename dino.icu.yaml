@@ -321,6 +321,11 @@ factorio: # factorio.dino.icu - Hack Club hacktorio server - Slack: #factorio
   type: A
   value: 168.119.243.45
 
+fallout-flight: # anscg@proton.me 
+  - ttl: 600
+    type: CNAME
+    value: falloutflight.anscg.net.
+
 fanout: # Eternal on slack (Slack ID: U09H9PLB6E7)
   ttl: 600
   type: CNAME
@@ -360,6 +365,9 @@ geta: # yoda - https://getadinoicu.yodacode.repl.co/dino.png - get a dino from h
   value: ef35bb48-f121-4f7f-91f6-93f601559c24.id.repl.co.
 
 goship: # BnaJns - U08R49H9VRV
+- octodns:
+    cloudflare:
+      proxied: true
   ttl: 600
   type: CNAME
   value: 9668ee3a-6747-4432-b299-f6af338be047.cfargotunnel.com.
@@ -373,6 +381,11 @@ hacktive: # Origamibooklover@gmail.com
   - ttl: 600
     type: CNAME
     value: vrhshacktive.github.io.
+
+hackxpansion: # koeglike@proton.me
+  ttl: 600
+  type: CNAME
+  value: koeglike.github.io.
 
 hacktv:
   - ttl: 600
@@ -531,6 +544,11 @@ motivation:
   ttl: 600
   type: CNAME
   value: maxwofford.github.io.
+
+monty: # contact via adelinmihai071@gmail.com
+  ttl: 600
+  type: CNAME
+  value: cname.vercel-dns.com.
 
 niilas: # Niilas - repo: https://github.com/niilasoika/niilas.dino.icu
   ttl: 600
