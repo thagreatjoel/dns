@@ -2615,6 +2615,10 @@ guides: # reem@hackclub.com U06U80G86H1
   ttl: 300
   type: CNAME
   value: a.selfhosted.hackclub.com.
+guildkerala:
+  ttl: 300
+  type: CNAME
+  value: kochiguild.netlify.app.
 gwas:
   ttl: 300
   type: CNAME
